@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Pedro Moyano. Electromechanical Engineer and Full Stack Web Developer in JavaScript and Python.
+👋 Hi, I’m Pedro Moyano. **Electromechanical Enginee**r and **Full Stack Web Developer** in JavaScript and Python.
 - 🌱 I’m currently enrolled in Springboard's Software Engineering Career Track, graduating in May 2022.
 - 💞️ I’m looking to collaborate with a team on a project, to gain experience working with other developers.
 - 📫 How to reach me: pedromoyano454@gmail.com
