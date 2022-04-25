@@ -1,5 +1,5 @@
 
-👋 (Ewan McGregor's voice) **Hello there!**
+👋 **Hello there! I'm Pedro.**
 - 🌱 I’m currently doing projects in React.js / Express.js with Postgres! Also have have done some Full stack projects with Flask and SQLAlchemy.
 - 💞️ I’m looking to collaborate with a team on a project, to gain more experience working with other developers.
 - 📫 How to reach me: pedromoyano454@gmail.com
