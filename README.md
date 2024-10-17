@@ -1,4 +1,4 @@
 
-👋 **Hello there! I'm Pedro.** I'm a React/Node developer at Solvd Inc.
+👋 **Hello there! I'm Pedro.** 
 - 📫 pedromoyano454@gmail.com
 
